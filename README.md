@@ -1,5 +1,4 @@
-# Paper-Folding
-My Paper-Folding Theory
+# My Paper-Folding Theory
 
 <br>
 <br>
