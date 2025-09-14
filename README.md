@@ -12,3 +12,5 @@ The known limit, which is 11 folds before it becomes impossible to fold a piece 
 <br>
 <br>
 The common limit that people usually report getting is 7 folds before they cannot fold a piece of paper or any other material any further, and in my series here that is the first step in which the net gain in torsion is a fraction of one, and efficiency is lost at this point so it is the initial beginning of the loss of efficiency in torsion achieved per halving, and so it becomes exponentially more difficult at that point to achieve the next fold.
+<br>
+<img width="1005" height="291" alt="paper-folding" src="https://github.com/user-attachments/assets/bb357b65-0e35-4574-8939-429377afe782" />
