@@ -16,3 +16,6 @@ The common limit that people usually report getting is 7 folds before they canno
 <br>
 <br>
 <img width="1005" height="291" alt="paper-folding" src="https://github.com/user-attachments/assets/bb357b65-0e35-4574-8939-429377afe782" />
+<br>
+<br>
+<br>
