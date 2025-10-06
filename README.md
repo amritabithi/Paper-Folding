@@ -1,5 +1,5 @@
 # My Paper-Folding Theory
-
+### by Amrita Bithi
 <br>
 <br>
 This printout shows how many angular degrees are consumed per fold for the required range that would signify a valid fold, being 180 degrees turn of the paper, with each step consuming one-half of the remaining range from the fold before it.
